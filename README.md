@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ruby, react**
 
-- 👨‍💻 All of my projects are available at [j-tee](j-tee)
+- 👨‍💻 All of my projects are available at [j-tee](https://github.com/j-tee?tab=repositories)
 
 - 💬 Ask me about **angular, .Netcore WebAPI**
 
