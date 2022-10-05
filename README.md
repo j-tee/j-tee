@@ -30,4 +30,4 @@
 
 &nbsp;
 
-<p>&nbsp;<img margin-top="20px" align="center" src="https://github-readme-stats.vercel.app/api?username=j-tee&show_icons=true&locale=en" alt="j-tee" /></p>
+<p>&nbsp;<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=j-tee&show_icons=true&locale=en" alt="j-tee" /></p>
