@@ -26,4 +26,4 @@
 
 <p><img align="right" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-tee&show_icons=true&locale=en&layout=compact" alt="j-tee" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=j-tee&" alt="j-tee" /></p>
+<p><img align="left" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=j-tee&" alt="j-tee" /></p>
