@@ -29,3 +29,5 @@
 <p><img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=j-tee&" alt="j-tee" /></p>
 
 &nbsp;
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j-tee&show_icons=true&locale=en" alt="j-tee" /></p>
