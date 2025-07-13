@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [SDMS](www.sdms.alphalogiquetechnologies.com.com)
+- 🔭 I’m currently working on [SDMS](https://sdms.alphalogiquetechnologies.com)
 
 - 🌱 I’m currently learning **Ruby, react**
 
