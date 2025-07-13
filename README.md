@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [j-tee](https://github.com/j-tee?tab=repositories)
 
-- 💬 Ask me about **angular, .Netcore WebAPI**
+- 💬 Ask me about **Ruby, Reactjs, Python, .Netcore WebAPI**
 
 - 📫 How to reach me **juliustetteh@gmail.com**
 
