@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [SDMS](https://sdms.alphalogiquetechnologies.com)
 
-- 🌱 I’m currently learning **Ruby, react**
+- 🌱 I’m currently learning **Python, Django**
 
 - 👨‍💻 All of my projects are available at [j-tee](https://github.com/j-tee?tab=repositories)
 
